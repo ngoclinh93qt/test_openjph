@@ -1,0 +1,3 @@
+[submodule "openjph_ffi"]
+	path = openjph_ffi
+	url = https://github.com/LexRay/openjph_ffi.git

@@ -1,0 +1,9 @@
+[package]
+name = "test-j2k"
+version = "0.1.0"
+authors = ["Linh <linhnguyen@zentech.io>"]
+edition = "2018"
+
+[dependencies]
+openjphffi = { path = "./openjph_ffi/" }
+image = "*"
